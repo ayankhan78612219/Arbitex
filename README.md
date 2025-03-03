@@ -1,8 +1,8 @@
 <h1 align="center">
  <br>
-  <a href="https://github.com/sonujana26"><img src="https://cdn.discordapp.com/avatars/1144179659735572640/a_8d3bbc050480bc9157fe71c9334d8213.png?size=128"></a>
+  <a href="https://github.com/ayankhan78612219"><img src="https://cdn.discordapp.com/attachments/1344559858174922752/1345924374896578560/85eff0446a0e058c928255a60d918df2.png?ex=67c65141&is=67c4ffc1&hm=f14c40f733f293a5cc84243a4d7106d066c11c3c5b0b5a7fa36984f9840a956d&"></a>
   <br>
-  Olympus the Ultimate Discord Bot
+  Arbitex the Ultimate Discord Bot
   <br>
 </h1>
 
@@ -44,11 +44,11 @@
   <a href="#credits">Credits</a>
 </p>
 
-## 🔗 [Invite the Public Bot (Olympus) by clicking here!](https://discord.com/oauth2/authorize?client_id=1144179659735572640&permissions=2113268958&scope=bot)
+## 🔗 [Invite the Public Bot (Arbitex) by clicking here!](https://discord.com/oauth2/authorize?client_id=1344939913061208074&permissions=8&integration_type=0&scope=bot+applications.commands)
 
 ## About
 
-Olympus is a powerful, easy-to-use Discord bot designed to enhance your server experience with an extensive suite of features. Built with advanced security, automoderation, moderation, music systems, welcoming features, and more at its core, Olympus ensures your community stays safe and well-managed, giving you peace of mind and control.
+Arbitex is a powerful, easy-to-use Discord bot designed to enhance your server experience with an extensive suite of features. Built with advanced security, automoderation, moderation, music systems, welcoming features, and more at its core, Arbitex ensures your community stays safe and well-managed, giving you peace of mind and control.
 
 ## Features
 
@@ -84,20 +84,20 @@ Olympus is a powerful, easy-to-use Discord bot designed to enhance your server e
    ```env
    TOKEN=YOUR_BOT_TOKEN_HERE
    ```
-   • Replace the Owner ID(s) [here](https://github.com/sonujana26/olympus-bot/blob/main/utils/config.py#L7) (in `utils/config.py`).
+   • Replace the Owner ID(s) [here](https://github.com/ayankhan78612219/arbitex-bot/blob/main/utils/config.py#L7) (in `utils/config.py`).
 2. **Prefix:**
    Default Prefix: `$`
    > You can change prefix **[here](https://github.com/sonujana26/olympus-bot/blob/main/utils/Tools.py#L84)**.
    
 4. **For Music:**  
-   A public Lavalink is used, hosted by [Winkle Music](https://discord.gg/winklemusic) by [Ujjwal](https://github.com/UjjwalxD). For better audio quality, it is recommended to set up your private Lavalink v4.  
+   A public Lavalink is used, hosted by [Arbitex](https://discord.gg/yV7HbDYKS5) by [Marco](https://github.com/ayankhan78612219). For better audio quality, it is recommended to set up your private Lavalink v4.  
    > Update your Lavalink URL, password, and other configurations [by clicking here](https://github.com/sonujana26/olympus-bot/blob/main/cogs/commands/music.py#L339).
 - If you are using your private lavalink & have youtube plugin enabled/working but the Spotify plugin is not working, than you can Uncomment Lines `(445 - 452)` in `(cogs/commands/music.py)`, this will convert a Spotify track to YouTube Track.
 
 5. **Logging & Notifications:**  
-   - **Command Logs:** Get a channel webhook URL and update it [here](https://github.com/sonujana26/olympus-bot/blob/main/main.py#L75) (in `main.py`).  
-   - **Guild Joins:** Add the channel ID [here](https://github.com/sonujana26/olympus-bot/blob/main/cogs/events/on_guild.py#L25) (in `cogs/events/on_guild.py`).  
-   - **Guild Leaves:** Add the channel ID [here](https://github.com/sonujana26/olympus-bot/blob/main/cogs/events/on_guild.py#L109) (in `cogs/events/on_guild.py`).
+   - **Command Logs:** Get a channel webhook URL and update it [here](https://github.com/ayankhan78612219/arbitex-bot/blob/main/main.py#L75) (in `main.py`).  
+   - **Guild Joins:** Add the channel ID [here](https://github.com/ayankhan78612219/arbitex-bot/blob/main/cogs/events/on_guild.py#L25) (in `cogs/events/on_guild.py`).  
+   - **Guild Leaves:** Add the channel ID [here](https://github.com/ayankhan78612219/arbitex-bot/blob/main/cogs/events/on_guild.py#L109) (in `cogs/events/on_guild.py`).
 
 6. **No Prefix Commands:**  
    There are several `np` commands like `np add`, `np remove`, `auto np add`, `auto np remove`, `auto np role`, etc. Check and modify them as needed in `cogs/commands/np.py`.
@@ -113,11 +113,11 @@ Coming Soon
 
 ## Credits
 **Author:**  
-Sonu Jana - *Head Developer* - **[GitHub](https://github.com/sonujana26)**
+Sonu Jana - *Head Developer* - **[GitHub](https://github.com/ayankhan78612219)**
 
 **Team:**
 <div align="center">
-  <a href="https://discord.gg/awttaugm84">
+  <a href="https://discord.gg/yV7HbDYKS5">
     <img src="https://discordapp.com/api/guilds/699587669059174461/widget.png?style=banner2">
   </a>
 </div>
