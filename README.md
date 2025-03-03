@@ -113,11 +113,11 @@ Coming Soon
 
 ## Credits
 **Author:**  
-Sonu Jana - *Head Developer* - **[GitHub](https://github.com/ayankhan78612219)**
+Marco - *Head Developer* - **[GitHub](https://github.com/ayankhan78612219)**
 
 **Team:**
 <div align="center">
   <a href="https://discord.gg/yV7HbDYKS5">
-    <img src="https://discordapp.com/api/guilds/699587669059174461/widget.png?style=banner2">
+    <img src="https://cdn.discordapp.com/attachments/1344559910972559401/1346097674645934193/befunky_2025-1-5_12-53-37.jpg?ex=67c6f2a6&is=67c5a126&hm=0f6e6df837facbdec33b0f07cf0fc69d9b412c8a05f2ec622b1f5645b526f37f&">
   </a>
 </div>
